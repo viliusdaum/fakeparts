@@ -1,4 +1,5 @@
-[
+{
+  "parts": [
   {
     "partId": 1,
     "partTitle": "Wheel",
@@ -63,4 +64,5 @@
       "name": "east-1"
     }
   }
-]
+  ]
+}
