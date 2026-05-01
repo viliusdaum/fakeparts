@@ -1,5 +1,4 @@
-{
-  "parts": [
+[
   {
     "id": 1,
     "title": "Wheel",
@@ -48,5 +47,4 @@
     "warehouseLocation": "4c88-501-4412",
     "warehouseName": "east-1"
   }
-  ]
-}
+]
