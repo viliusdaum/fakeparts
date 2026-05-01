@@ -1,50 +1,52 @@
-[
-  {
-    "id": 1,
-    "title": "Wheel",
-    "warehouseLocation": "5g90-122-3232",
-    "warehouseName": "m7"
-  },
-  {
-    "id": 2,
-    "title": "Brake disc (front)",
-    "warehouseLocation": "2a41-018-9910",
-    "warehouseName": "m7"
-  },
-  {
-    "id": 3,
-    "title": "Oil filter",
-    "warehouseLocation": "8c22-404-1102",
-    "warehouseName": "east-1"
-  },
-  {
-    "id": 4,
-    "title": "Spark plug set",
-    "warehouseLocation": "1d03-220-7744",
-    "warehouseName": "east-1"
-  },
-  {
-    "id": 5,
-    "title": "Alternator",
-    "warehouseLocation": "9f55-900-0033",
-    "warehouseName": "bulk-b"
-  },
-  {
-    "id": 6,
-    "title": "Radiator hose",
-    "warehouseLocation": "3b77-115-6621",
-    "warehouseName": "m7"
-  },
-  {
-    "id": 7,
-    "title": "Headlight assembly (LH)",
-    "warehouseLocation": "7e12-330-8890",
-    "warehouseName": "fragile"
-  },
-  {
-    "id": 8,
-    "title": "Air filter",
-    "warehouseLocation": "4c88-501-4412",
-    "warehouseName": "east-1"
-  }
-]
+{
+  "parts": [
+    {
+      "id": 1,
+      "title": "Wheel",
+      "warehouseLocation": "5g90-122-3232",
+      "warehouseName": "m7"
+    },
+    {
+      "id": 2,
+      "title": "Brake disc (front)",
+      "warehouseLocation": "2a41-018-9910",
+      "warehouseName": "m7"
+    },
+    {
+      "id": 3,
+      "title": "Oil filter",
+      "warehouseLocation": "8c22-404-1102",
+      "warehouseName": "east-1"
+    },
+    {
+      "id": 4,
+      "title": "Spark plug set",
+      "warehouseLocation": "1d03-220-7744",
+      "warehouseName": "east-1"
+    },
+    {
+      "id": 5,
+      "title": "Alternator",
+      "warehouseLocation": "9f55-900-0033",
+      "warehouseName": "bulk-b"
+    },
+    {
+      "id": 6,
+      "title": "Radiator hose",
+      "warehouseLocation": "3b77-115-6621",
+      "warehouseName": "m7"
+    },
+    {
+      "id": 7,
+      "title": "Headlight assembly (LH)",
+      "warehouseLocation": "7e12-330-8890",
+      "warehouseName": "fragile"
+    },
+    {
+      "id": 8,
+      "title": "Air filter",
+      "warehouseLocation": "4c88-501-4412",
+      "warehouseName": "east-1"
+    }
+  ]
+}
