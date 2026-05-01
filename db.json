@@ -1,0 +1,66 @@
+[
+  {
+    "partId": 1,
+    "partTitle": "Wheel",
+    "warehouse": {
+      "location": "5g90-122-3232",
+      "name": "m7"
+    }
+  },
+  {
+    "partId": 2,
+    "partTitle": "Brake disc (front)",
+    "warehouse": {
+      "location": "2a41-018-9910",
+      "name": "m7"
+    }
+  },
+  {
+    "partId": 3,
+    "partTitle": "Oil filter",
+    "warehouse": {
+      "location": "8c22-404-1102",
+      "name": "east-1"
+    }
+  },
+  {
+    "partId": 4,
+    "partTitle": "Spark plug set",
+    "warehouse": {
+      "location": "1d03-220-7744",
+      "name": "east-1"
+    }
+  },
+  {
+    "partId": 5,
+    "partTitle": "Alternator",
+    "warehouse": {
+      "location": "9f55-900-0033",
+      "name": "bulk-b"
+    }
+  },
+  {
+    "partId": 6,
+    "partTitle": "Radiator hose",
+    "warehouse": {
+      "location": "3b77-115-6621",
+      "name": "m7"
+    }
+  },
+  {
+    "partId": 7,
+    "partTitle": "Headlight assembly (LH)",
+    "warehouse": {
+      "location": "7e12-330-8890",
+      "name": "fragile"
+    }
+  },
+  {
+    "partId": 8,
+    "partTitle": "Air filter",
+    "warehouse": {
+      "location": "4c88-501-4412",
+      "name": "east-1"
+    }
+  }
+]
